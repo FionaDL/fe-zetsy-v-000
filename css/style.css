@@ -39,4 +39,9 @@ body {
    padding: 1px;
  }
 
+ footer {
+   font-size: .08em;
+   color: #555;
+ }
+
 /* Write all remaining styles here */
